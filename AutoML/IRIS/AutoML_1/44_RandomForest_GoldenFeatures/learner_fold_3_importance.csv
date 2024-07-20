@@ -1,0 +1,15 @@
+feature,mean_importance
+feature_1,0.0
+feature_2,0.0
+feature_2_ratio_feature_4,0.0038172651160307018
+feature_4_ratio_feature_1,0.010510655305889228
+feature_4_sum_feature_3,0.01564250180683905
+feature_3_diff_feature_4,0.01935359503747933
+feature_4_ratio_feature_2,0.03144759396634906
+feature_3_ratio_feature_1,0.039771958119570364
+feature_1_diff_feature_3,0.04821486316742761
+feature_3,0.08054695526333953
+feature_4_multiply_feature_3,0.13842504752459345
+feature_1_ratio_feature_3,0.14016229275184638
+feature_2_diff_feature_3,0.14601408605287597
+feature_4,0.15304902186637812

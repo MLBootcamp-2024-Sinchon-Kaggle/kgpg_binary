@@ -1,0 +1,15 @@
+feature,mean_importance
+feature_1,0.0
+feature_2,0.0
+feature_4_multiply_feature_3,0.0
+feature_4_ratio_feature_1,0.0
+feature_1_ratio_feature_3,0.0
+feature_4_ratio_feature_2,0.0
+feature_2_ratio_feature_4,0.0
+feature_1_diff_feature_3,0.0
+feature_3_diff_feature_4,0.0
+feature_2_diff_feature_3,0.0
+feature_4,0.18774507758764886
+feature_3_ratio_feature_1,0.26743336629437664
+feature_4_sum_feature_3,0.2991424009125303
+feature_3,0.32021438196556595

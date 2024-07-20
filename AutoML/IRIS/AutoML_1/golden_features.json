@@ -1,0 +1,77 @@
+{
+    "new_features": [
+        {
+            "feature1": "feature_4",
+            "feature2": "feature_3",
+            "operation": "multiply",
+            "score": 0.057762265
+        },
+        {
+            "feature1": "feature_4",
+            "feature2": "feature_1",
+            "operation": "ratio",
+            "score": 0.7044146685
+        },
+        {
+            "feature1": "feature_1",
+            "feature2": "feature_3",
+            "operation": "ratio",
+            "score": 1.0807768652
+        },
+        {
+            "feature1": "feature_3",
+            "feature2": "feature_1",
+            "operation": "ratio",
+            "score": 1.0807768652
+        },
+        {
+            "feature1": "feature_4",
+            "feature2": "feature_2",
+            "operation": "ratio",
+            "score": 1.1401750057
+        },
+        {
+            "feature1": "feature_2",
+            "feature2": "feature_4",
+            "operation": "ratio",
+            "score": 1.1401750057
+        },
+        {
+            "feature1": "feature_1",
+            "feature2": "feature_3",
+            "operation": "diff",
+            "score": 1.2198984837
+        },
+        {
+            "feature1": "feature_3",
+            "feature2": "feature_4",
+            "operation": "diff",
+            "score": 1.7969315793
+        },
+        {
+            "feature1": "feature_2",
+            "feature2": "feature_3",
+            "operation": "diff",
+            "score": 2.0024251883
+        },
+        {
+            "feature1": "feature_4",
+            "feature2": "feature_3",
+            "operation": "sum",
+            "score": 2.0024251883
+        }
+    ],
+    "new_columns": [
+        "feature_4_multiply_feature_3",
+        "feature_4_ratio_feature_1",
+        "feature_1_ratio_feature_3",
+        "feature_3_ratio_feature_1",
+        "feature_4_ratio_feature_2",
+        "feature_2_ratio_feature_4",
+        "feature_1_diff_feature_3",
+        "feature_3_diff_feature_4",
+        "feature_2_diff_feature_3",
+        "feature_4_sum_feature_3"
+    ],
+    "ml_task": "multiclass_classification"
+}
