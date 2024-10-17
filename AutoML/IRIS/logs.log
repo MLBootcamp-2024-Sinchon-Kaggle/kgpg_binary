@@ -2304,3 +2304,11 @@ ValueError: Target scores need to be probabilities for multiclass roc_auc, i.e. 
                            priors=None, shrinkage=None, solver='svd',
                            store_covariance=False, tol=0.0001)
 2024-07-20 23:22:26,938:INFO:compare_models() successfully completed......................................
+2024-07-22 10:57:55,358:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-22 10:57:55,360:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-22 10:57:55,360:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-22 10:57:55,360:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
